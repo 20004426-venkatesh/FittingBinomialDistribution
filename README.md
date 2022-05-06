@@ -62,7 +62,7 @@ else:
 ```
 
 # Output : 
-![image]()
+![image](https://github.com/20004426-venkatesh/FittingBinomialDistribution/blob/main/math.png)
 
 # Result :
 Thus, fitting binomial distribution for the given frequencey distribution is verified.
